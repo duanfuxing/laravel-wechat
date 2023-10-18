@@ -11,7 +11,7 @@
     ],
     "require": {
         "illuminate/container": "^5.1 || ^6.0 || ^7.0 || ^8.0",
-        "duan617/easywechat": "^1.2.2"
+        "duan617/easywechat": "^1.2.3"
     },
     "require-dev": {
         "laravel/framework": "^8.5",
